@@ -4,7 +4,7 @@
 
 I am a self-taught **Product Designer** with an affinity for code, and a passion 💙 for building great things.
 
-Check out my design work in my [portfolio](https://akhillochen.github.io/product-design-portfolio/website/).
+You can check out my design work in my [design portfolio ✨](https://akhillochen.github.io/product-design-portfolio/website/), and the code that runs it [here](https://github.com/akhillochen/product-design-portfolio).
 
 Apart from design, I enjoy making music 🎧 and sharing it on [my YouTube channel](https://www.youtube.com/channel/UCSUV_YG21xg3sweRfzR6cZQ).
 
