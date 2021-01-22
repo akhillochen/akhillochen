@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akhil
+# 👋 Hi, I'm Akhil.
 
 ### Welcome to my Github profile! 🎉
 
