@@ -12,6 +12,4 @@ Currently, I am a final year engineering student pursuing my B.Tech in ECE from 
 
 🚀 I’m available to take on new interesting projects and learn more! Feel free to contact me at: [akhillochen@gmail.com](mailto:akhillochen@gmail.com).
 
-Let's connect on:
-• 🐦 [Twitter](https://twitter.com/akhillochen)
-• 🔗 [LinkedIn](https://www.linkedin.com/in/akhillochen/)
+Let's connect on: 🐦 [Twitter](https://twitter.com/akhillochen) | 🔗 [LinkedIn](https://www.linkedin.com/in/akhillochen/)
