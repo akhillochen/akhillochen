@@ -11,3 +11,7 @@ Apart from design, I enjoy making music 🎧 and sharing it on [my YouTube chann
 Currently, I am a final year engineering student pursuing my B.Tech in ECE from NIT Trichy (one of India’s Top #10 engineering colleges).
 
 🚀 I’m available to take on new interesting projects and learn more! Feel free to contact me at: [akhillochen@gmail.com](mailto:akhillochen@gmail.com).
+
+Let's connect on:
+• 🐦 [Twitter](https://twitter.com/akhillochen)
+• 🔗 [LinkedIn](https://www.linkedin.com/in/akhillochen/)
